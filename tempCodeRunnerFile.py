@@ -1,0 +1,1 @@
+player_items = [potion, hipotion, superpotion, elixer, hielixer, grenade]
